@@ -8,7 +8,7 @@ projectFolder\
     queue.h\
     queue.c\
     test4.txt\
-    test5.txt\
+    test5.txt
 
 ** COMPILATION INSTRUCTIONS **\
 Test 1: gcc test1.c sut.c queue.c tcb.c -pthread && ./a.out > test1-stdout.txt\
